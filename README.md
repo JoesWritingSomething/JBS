@@ -1,3 +1,3 @@
 # JBS
 
-Website repository
+Website for JBSteele.xyz
